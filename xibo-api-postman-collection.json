@@ -1,5 +1,5 @@
 {
-    "id": "3df093d1313a2f44e3dd8b43f7622cb8",
+    "id": "1e2ddaaec0b399207441ca0711959c0c",
     "name": "Xibo API",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "3b4d09b656f3feef2cc2edfb7e3b53c0",
+            "id": "08cdd44474bb88e97345d7bd71efcbac",
             "name": "Search Campaigns",
             "url": "https\/api\/campaign",
             "description": "Search all Campaigns this user has access to",
@@ -79,11 +79,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "22b800a25b5141deb2b8c902cf4cbc7c",
+            "id": "4aabc8107349a258f3f2d5f6942ca456",
             "name": "Add Campaign",
             "url": "https\/api\/campaign",
             "description": "Add a Campaign",
@@ -110,11 +110,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "e88956695d78cb29a17fe21a806bac55",
+            "id": "76c39a95cb0ff24edd51163c54f9056d",
             "name": "Edit Campaign",
             "url": "https\/api\/campaign\/{campaignId}",
             "description": "Edit an existing Campaign",
@@ -148,11 +148,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "792676bbd9e49ef5b331febfa19c79a4",
+            "id": "0831a185a30c7463d3c23f14bb52371a",
             "name": "Delete Campaign",
             "url": "https\/api\/campaign\/{campaignId}",
             "description": "Delete an existing Campaign",
@@ -179,11 +179,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "7cd09eb821ea60f73a7df7630f92d5f6",
+            "id": "08ef34a3465282ac51dd248f23aae68f",
             "name": "Assign Layouts",
             "url": "https\/api\/campaign\/layout\/assign\/{campaignId}",
             "description": "Assign Layouts to a Campaign",
@@ -224,11 +224,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "0b10697553410bf33523dbcc7bf15c80",
+            "id": "2fbc75a1898125fc54ee1bcdee83321c",
             "name": "The current CMS time",
             "url": "https\/api\/clock",
             "description": "The Time",
@@ -247,11 +247,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "55b04711de16312d5c718a48febcebd0",
+            "id": "b93fa68835e46e2dd1c75c6380d69be3",
             "name": "Command Search",
             "url": "https\/api\/command",
             "description": "Search this users Commands",
@@ -292,11 +292,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "a53a610f424a91f2face3040707dd80d",
+            "id": "a87405cf6b09424b9f638b3b93989f74",
             "name": "Command Add",
             "url": "https\/api\/command",
             "description": "Add a Command",
@@ -337,11 +337,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "d4cc725a9095653b6c4f78c78621f5cd",
+            "id": "9254d7f96333ea0714a5373238e46a1b",
             "name": "Edit Command",
             "url": "https\/api\/command\/{commandId}",
             "description": "Edit the provided command",
@@ -382,11 +382,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "093cb96a3484c1d0e462b471dbc64a5d",
+            "id": "a734a23fc14eb473e4590dc7232dbcff",
             "name": "Delete Command",
             "url": "https\/api\/command\/{commandId}",
             "description": "Delete the provided command",
@@ -413,11 +413,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "0def7e80eb89a9b6c8676bdd6f0f3758",
+            "id": "97db4b16f7af2f82884dcb54f4889b4c",
             "name": "DataSet Search",
             "url": "https\/api\/dataset",
             "description": "Search this users DataSets",
@@ -465,11 +465,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "5c3f9685adac7c303d85f20fd387f9e0",
+            "id": "ec2aee25d09d18f9f51e988b13a24ad5",
             "name": "Add DataSet",
             "url": "https\/api\/dataset",
             "description": "Add a DataSet",
@@ -601,11 +601,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "a7d96cc29960312fc5b598e12c4de114",
+            "id": "2a79f7fcca5782a5288b6ae6a64e6827",
             "name": "Edit DataSet",
             "url": "https\/api\/dataset\/{dataSetId}",
             "description": "Edit a DataSet",
@@ -744,11 +744,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "dd3a5665bded543f00832193e130e9f0",
+            "id": "cce821fa17e1ee95db969d38cd4ba829",
             "name": "Delete DataSet",
             "url": "https\/api\/dataset\/{dataSetId}",
             "description": "Delete a DataSet",
@@ -775,11 +775,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "ea9374902ce35a888ebad7bdb4e425ca",
+            "id": "a7c9bcf52483dc3de1f7cd401bb930ee",
             "name": "Copy DataSet",
             "url": "https\/api\/dataset\/copy\/{dataSetId}",
             "description": "Copy a DataSet",
@@ -827,11 +827,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "6de241cc56f01ef30693af00f3159edb",
+            "id": "138a9576563ebb64b2dc2c855ea003e7",
             "name": "Import CSV",
             "url": "https\/api\/dataset\/import\/{dataSetId}",
             "description": "Import a CSV into a DataSet",
@@ -886,11 +886,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "f24c250434f92058a327d45e4137d990",
+            "id": "033138150d3f4928f4271168af76afc5",
             "name": "Import JSON",
             "url": "https\/api\/dataset\/importjson\/{dataSetId}",
             "description": "Import JSON into a DataSet",
@@ -924,11 +924,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "1450785eb836a7f3ac2b220977121ae4",
+            "id": "cadcc43603b2bea912efc981dd76c3ab",
             "name": "Search Columns",
             "url": "https\/api\/dataset\/{dataSetId}\/column",
             "description": "Search Columns for DataSet",
@@ -962,11 +962,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "c6d08aaa7d93fad0f25eff78d6a64d7a",
+            "id": "0ef99c60128cba76a84e23418a5b300d",
             "name": "Add Column",
             "url": "https\/api\/dataset\/{dataSetId}\/column",
             "description": "Add a Column to a DataSet",
@@ -1056,11 +1056,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "21cde39ed0801d015f5d1961e8eeb69c",
+            "id": "b56f1aea9ec18919a7c90b3c9a9de4fe",
             "name": "Edit Column",
             "url": "https\/api\/dataset\/{dataSetId}\/column\/{dataSetColumnId}",
             "description": "Edit a Column to a DataSet",
@@ -1157,11 +1157,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "53a60f76a0beba9d3c859094b26a781e",
+            "id": "150e17bcee5248fde9c66863348ad8c0",
             "name": "Delete Column",
             "url": "https\/api\/dataset\/{dataSetId}\/column\/{dataSetColumnId}",
             "description": "Delete DataSet Column",
@@ -1195,11 +1195,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "f30025a5b449353f0894db62138d5df4",
+            "id": "b1a6e77460b1cce843b6202ac5ed66a3",
             "name": "DataSet Data",
             "url": "https\/api\/dataset\/data\/{dataSetId}",
             "description": "Get Data for DataSet",
@@ -1226,11 +1226,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "36da01b619cfffb61b1d2aa71c57feb0",
+            "id": "1bc60c115059fde9ea684eb9b5ed5fbb",
             "name": "Add Row",
             "url": "https\/api\/dataset\/data\/{dataSetId}",
             "description": "Add a row of Data to a DataSet",
@@ -1264,11 +1264,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "e77cbf9d0cb6c3fbeb48e01928e63bd8",
+            "id": "5ef79c36aedd295e47b20400213204d4",
             "name": "Edit Row",
             "url": "https\/api\/dataset\/data\/{dataSetId}\/{rowId}",
             "description": "Edit a row of Data to a DataSet",
@@ -1309,11 +1309,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "92bd8b46074d9a61dd2e383ba498bb0d",
+            "id": "f0cea97a7f74dde1423bc0b85c4b9eeb",
             "name": "Delete Row",
             "url": "https\/api\/dataset\/data\/{dataSetId}\/{rowId}",
             "description": "Delete a row of Data to a DataSet",
@@ -1347,11 +1347,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "2eab4c68358ce008c92387bc2d1d476e",
+            "id": "27e00aa42c0709601cc066e7ec743f4c",
             "name": "Daypart Search",
             "url": "https\/api\/daypart",
             "description": "Search dayparts",
@@ -1392,11 +1392,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "18715cf65fcd590a7324d491b1f3151c",
+            "id": "012917581157b6f6260ddf7570aa2230",
             "name": "Daypart Add",
             "url": "https\/api\/daypart",
             "description": "Add a Daypart",
@@ -1465,11 +1465,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "6a4675fab2fc78470bae97f9c340fa84",
+            "id": "6c9bbeef113943294c4733c8a3a49726",
             "name": "Daypart Add",
             "url": "https\/api\/daypart\/{dayPartId}",
             "description": "Add a Daypart",
@@ -1545,11 +1545,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "be2880423759c9b856d013a4240af8e3",
+            "id": "3016e3d0cc4f86ba0a438bdf75e9e011",
             "name": "Delete DayPart",
             "url": "https\/api\/daypart\/{dayPartId}",
             "description": "Delete the provided dayPart",
@@ -1576,11 +1576,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "a5c9a91fa46c516d7c79d8a82aa79021",
+            "id": "7cdfacf841ac5655925c2e74f2d6e366",
             "name": "Display Search",
             "url": "https\/api\/display",
             "description": "Search Displays for this User",
@@ -1663,11 +1663,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "5531ca5a6de451ad87923481a07433b9",
+            "id": "358e1ab6360415fc15bba39db2164949",
             "name": "Display Edit",
             "url": "https\/api\/display\/{displayId}",
             "description": "Edit a Display",
@@ -1841,11 +1841,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "7b25ea047516c0cfbc70608401e2efd3",
+            "id": "ca769e1194c55dd29a850c743fe14dbd",
             "name": "Display Delete",
             "url": "https\/api\/display\/{displayId}",
             "description": "Delete a Display",
@@ -1872,11 +1872,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "a9caa9d92fa2132ce3f54dafa0b23203",
+            "id": "7db0897b5bcdb718c813cf48e75b6db4",
             "name": "Request Screen Shot",
             "url": "https\/api\/display\/requestscreenshot\/{displayId}",
             "description": "Notify the display that the CMS would like a screen shot to be sent.",
@@ -1903,11 +1903,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "c7cb643a46ac58b68e906fe903515bc8",
+            "id": "4576744343521d34b923280ad9f2bc48",
             "name": "Issue WOL",
             "url": "https\/api\/display\/wol\/{displayId}",
             "description": "Send a Wake On LAN packet to this Display",
@@ -1934,11 +1934,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "9fff900d0719f6928ef1c1737ba29adc",
+            "id": "b6b4ab0157dcfc55c38479b39c3cb059",
             "name": "Toggle authorised",
             "url": "https\/api\/display\/authorise\/{displayId}",
             "description": "Toggle authorised for the Display.",
@@ -1965,11 +1965,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "9e14395171c46f5b5b0e9a50f6c79b7a",
+            "id": "1f18c95f4e34827ff7fd411c3e01165e",
             "name": "Set Default Layout",
             "url": "https\/api\/display\/defaultlayout\/{displayId}",
             "description": "Sent the default Layout on this Display",
@@ -2003,11 +2003,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "070d32010605d7f3df16514881d41b1f",
+            "id": "e1abf2d1c3192afe7146a9e997d991f1",
             "name": "Get Display Groups",
             "url": "https\/api\/displaygroup",
             "description": "",
@@ -2076,11 +2076,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "c9f6aafc9c70d63e43ca551aebf8f580",
+            "id": "32bdd9348902c6eec43376c7802c9503",
             "name": "Add a Display Group",
             "url": "https\/api\/displaygroup",
             "description": "Add a new Display Group to the CMS",
@@ -2135,11 +2135,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "e93bd3772a93cde53a89e7bc0023f228",
+            "id": "78a9cd3cef03a6b72f67721bac034838",
             "name": "Edit a Display Group",
             "url": "https\/api\/displaygroup\/{displayGroupId}",
             "description": "Edit an existing Display Group identified by its Id",
@@ -2201,11 +2201,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "ab68041fa1ae5863a389fb3049b5c57f",
+            "id": "3e0113ea26392396b30d931bd663f898",
             "name": "Delete a Display Group",
             "url": "https\/api\/displaygroup\/{displayGroupId}",
             "description": "Delete an existing Display Group identified by its Id",
@@ -2232,11 +2232,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "ff7be998d6a933e70922ea3eb66c7c03",
+            "id": "288bc1bce8cc09db06e2b6874696c800",
             "name": "Assign one or more Displays to a Display Group",
             "url": "https\/api\/displaygroup\/{displayGroupId}\/display\/assign",
             "description": "Adds the provided Displays to the Display Group",
@@ -2277,11 +2277,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "775fd4f0fbca0d3fe9cfa859f287c42e",
+            "id": "bf6cef072d396169194e79bc44d04250",
             "name": "Unassigns one or more Displays to a Display Group",
             "url": "https\/api\/displaygroup\/{displayGroupId}\/display\/unassign",
             "description": "Removes the provided Displays from the Display Group",
@@ -2315,11 +2315,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "54737bc6177cc40dd9fa1a6cc9dcebd5",
+            "id": "a9cb7788acd5d58762f0ac6d8ccac165",
             "name": "Assign one or more DisplayGroups to a Display Group",
             "url": "https\/api\/displaygroup\/{displayGroupId}\/displayGroup\/assign",
             "description": "Adds the provided DisplayGroups to the Display Group",
@@ -2360,11 +2360,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "ca6305812f6fb7156280670e15290291",
+            "id": "4b48a9a9818dec975c37bbd7cc3c74fc",
             "name": "Unassigns one or more DisplayGroups to a Display Group",
             "url": "https\/api\/displaygroup\/{displayGroupId}\/displayGroup\/unassign",
             "description": "Removes the provided DisplayGroups from the Display Group",
@@ -2398,11 +2398,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "69dfef6f6f7adcd6d5303152f288a7d1",
+            "id": "45800d2fd11f36b5124ba712493ad63f",
             "name": "Assign one or more Media items to a Display Group",
             "url": "https\/api\/displaygroup\/{displayGroupId}\/media\/assign",
             "description": "Adds the provided Media to the Display Group",
@@ -2443,11 +2443,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "8d9be397cd7f3e9b3e8fb0ae4ab731c5",
+            "id": "529e3d245921e9e2d91757abc6fd2ba0",
             "name": "Unassign one or more Media items from a Display Group",
             "url": "https\/api\/displaygroup\/{displayGroupId}\/media\/unassign",
             "description": "Removes the provided from the Display Group",
@@ -2481,11 +2481,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "f0cafc4250ac1d6905156bf6eadec7dd",
+            "id": "33139cf92b298377222602a77f765214",
             "name": "Assign one or more Layouts items to a Display Group",
             "url": "https\/api\/displaygroup\/{displayGroupId}\/layout\/assign",
             "description": "Adds the provided Layouts to the Display Group",
@@ -2526,11 +2526,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "686b928adf5163751c6eb02dc2e164a9",
+            "id": "11d94a85fbdbcedec8fe01ef0185e183",
             "name": "Unassign one or more Layout items from a Display Group",
             "url": "https\/api\/displaygroup\/{displayGroupId}\/layout\/unassign",
             "description": "Removes the provided from the Display Group",
@@ -2564,11 +2564,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "88a058d967f28af8d2b8f970dfb2ef7a",
+            "id": "97c012f55cb686a2993f3fc6245c9a9e",
             "name": "Set the Version for this Display",
             "url": "https\/api\/displaygroup\/{displayGroupId}\/version",
             "description": "Sets the version instructions on all Displays in the Group",
@@ -2602,11 +2602,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "c5fdfefae795c3acb9eacb810664f6ec",
+            "id": "62ebffdc9141a1c6c4d3bfb481499798",
             "name": "Action: Collect Now",
             "url": "https\/api\/displaygroup\/{displayGroupId}\/action\/collectNow",
             "description": "Send the collect now action to this DisplayGroup",
@@ -2633,11 +2633,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "30b79e1012778ac3e193d641add967be",
+            "id": "15732d196be1d35489059e380e64bbff",
             "name": "Action: Clear Stats and Logs",
             "url": "https\/api\/displaygroup\/{displayGroupId}\/action\/clearStatsAndLogs",
             "description": "Clear all stats and logs on this Group",
@@ -2664,11 +2664,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "13a50e14db4e1aa32e09ede90544d705",
+            "id": "902261193e50ac6dc8f2861eec54209d",
             "name": "Action: Change Layout",
             "url": "https\/api\/displaygroup\/{displayGroupId}\/action\/changeLayout",
             "description": "Send the change layout action to this DisplayGroup",
@@ -2723,11 +2723,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "2959f235b9979a559a7d8123540dca6c",
+            "id": "0ef0c6de80f9a1c951657014497a2daf",
             "name": "Action: Revert to Schedule",
             "url": "https\/api\/displaygroup\/{displayGroupId}\/action\/revertToSchedule",
             "description": "Send the revert to schedule action to this DisplayGroup",
@@ -2754,11 +2754,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "007bf72eea1c36e7c865fdea8da07dda",
+            "id": "a2d8e2368203ecce90402a7348aa831c",
             "name": "Action: Overlay Layout",
             "url": "https\/api\/displaygroup\/{displayGroupId}\/action\/overlayLayout",
             "description": "Send the overlay layout action to this DisplayGroup",
@@ -2806,11 +2806,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "3fed249b1ebcaf9cac3e2bf939bee839",
+            "id": "7499bee09200e51d2287056b8587c79f",
             "name": "Send Command",
             "url": "https\/api\/displaygroup\/{displayGroupId}\/action\/command",
             "description": "Send a predefined command to this Group of Displays",
@@ -2844,11 +2844,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "e1c5b3799cc743f39901aaf0d69b33d2",
+            "id": "da6213c1b86b0a204c379e0b0b66925e",
             "name": "Display Profile Search",
             "url": "https\/api\/displayprofile",
             "description": "Search this users Display Profiles",
@@ -2889,11 +2889,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "3b5c8f3fe9066f95026e2ef278171f9f",
+            "id": "e7a5bc0efa13474643c82c5d7042b8c4",
             "name": "Add Display Profile",
             "url": "https\/api\/displayprofile",
             "description": "Add a Display Profile",
@@ -2934,11 +2934,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "753f0b0e11f73e10a6627a3ca8c81e63",
+            "id": "dba272df29ba3a38ab7a945aff9dafc8",
             "name": "Edit Display Profile",
             "url": "https\/api\/displayprofile\/{displayProfileId}",
             "description": "Edit a Display Profile",
@@ -2986,11 +2986,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "cee981911ee983c9421a790690bf2066",
+            "id": "5e2a62a11e2758d3f92aaa8cd669498a",
             "name": "Delete Display Profile",
             "url": "https\/api\/displayprofile\/{displayProfileId}",
             "description": "Delete an existing Display Profile",
@@ -3017,11 +3017,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "e4bc6d373707108b04beac6a393cf706",
+            "id": "fc0c42305d0d862ed9d932edfde900b5",
             "name": "Search Layouts",
             "url": "https\/api\/layout",
             "description": "Search for Layouts viewable by this user",
@@ -3097,11 +3097,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "e05350d34d14543f0db891d0f652d82e",
+            "id": "27b05a8b7221290df2349890bcfeebba",
             "name": "Add a Layout",
             "url": "https\/api\/layout",
             "description": "Add a new Layout to the CMS",
@@ -3149,11 +3149,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "b99fd99d1611bb1314bcb6b5393280b6",
+            "id": "c3da83481778826279907d2e9289f106",
             "name": "Edit Layout",
             "url": "https\/api\/layout\/{layoutId}",
             "description": "Edit a Layout",
@@ -3236,11 +3236,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "8d9bf9d325091e8087c7a4cac57b2e0a",
+            "id": "9ab0b2e0e781ec4954aad8f33a84b245",
             "name": "Delete Layout",
             "url": "https\/api\/layout\/{layoutId}",
             "description": "Delete a Layout",
@@ -3267,11 +3267,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "7e233b55e500613b3083c27f58b119c9",
+            "id": "067aae201b131ae5375e7a82b7ada028",
             "name": "Retire Layout",
             "url": "https\/api\/layout\/retire\/{layoutId}",
             "description": "Retire a Layout so that it isn't available to Schedule. Existing Layouts will still be played",
@@ -3298,11 +3298,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "674c2b3b112babfc928a28f5e3b1cddf",
+            "id": "efe8ab8b6fe22e962139e6f95cedc666",
             "name": "Copy Layout",
             "url": "https\/api\/layout\/copy\/{layoutId}",
             "description": "Copy a Layout, providing a new name if applicable",
@@ -3350,11 +3350,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "c2d03f1b97b2ac37b95b2eba6bb4d3cd",
+            "id": "ae40f93da752ca13b3b7b7d2aee159d9",
             "name": "Tag Layout",
             "url": "https\/api\/layout\/{layoutId}\/tag",
             "description": "Tag a Layout with one or more tags",
@@ -3388,11 +3388,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "cfc019c9eaccd6947b686c4d3c9d4a86",
+            "id": "91ae5076b71c17123c2ed6c5f43e4f99",
             "name": "Untag Layout",
             "url": "https\/api\/layout\/{layoutId}\/untag",
             "description": "Untag a Layout with one or more tags",
@@ -3426,11 +3426,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "fa460f5b61b738e5638df5ee25a6da36",
+            "id": "f3b30fdf0015c51fff9f0dea67a540cd",
             "name": "Layout Status",
             "url": "https\/api\/layout\/status\/{layoutId}",
             "description": "Calculate the Layout status and return a Layout",
@@ -3457,11 +3457,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "d405e517e541871b7836f37d9518a8c3",
+            "id": "62df5548d560860e2ddbac1f4c8a2047",
             "name": "Library Search",
             "url": "https\/api\/library",
             "description": "Search the Library for this user",
@@ -3551,11 +3551,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "09ad5d632c0d24c3fa92149fd4fc091f",
+            "id": "142eab56050205949bff198a191614d1",
             "name": "Add Media",
             "url": "https\/api\/library",
             "description": "Add Media to the Library",
@@ -3610,11 +3610,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "efe383b62ab7305d952d60a9d97eadb3",
+            "id": "116d2f2e23a226daad65fce8cf7ca815",
             "name": "Edit Media",
             "url": "https\/api\/library\/{mediaId}",
             "description": "Edit a Media Item in the Library",
@@ -3676,11 +3676,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "d6d70b5af59c9206d22df890b7685193",
+            "id": "65a435449e0d6e4ce4c6d4001309ac4e",
             "name": "Delete Media",
             "url": "https\/api\/library\/{mediaId}",
             "description": "Delete Media from the Library",
@@ -3714,11 +3714,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "e85b5b2ad8bcb6f7624eefbcec8c0959",
+            "id": "0aeed8df004833551ce6614aaf7087ae",
             "name": "Tidy Library",
             "url": "https\/api\/library\/tidy",
             "description": "Routine tidy of the library, removing unused files.",
@@ -3745,11 +3745,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "9d2b0010fad74dc27c9a99c8a5db27ce",
+            "id": "d63fd42af9d773177c3c50fc97dadf7c",
             "name": "Download Media",
             "url": "https\/api\/library\/download\/{mediaId}\/{type}",
             "description": "Download a Media file from the Library",
@@ -3783,11 +3783,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "7f1b14a841d9cc3278fcc1ce95717ec3",
+            "id": "25e82881db39bbb9523a1d3c8cace275",
             "name": "Tag Media",
             "url": "https\/api\/library\/{mediaId}\/tag",
             "description": "Tag a Media with one or more tags",
@@ -3821,11 +3821,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "12becb99daf6e1e5f6de447f613d5c37",
+            "id": "b7067e14146647b3b139e82308665603",
             "name": "Untag Media",
             "url": "https\/api\/library\/{mediaId}\/untag",
             "description": "Untag a Media with one or more tags",
@@ -3859,11 +3859,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "6bc0d1395fddc2a38a6d20bc6ced3413",
+            "id": "8963572a519a4122e055d8c81f4f7e69",
             "name": "Get Library Item Usage Report",
             "url": "https\/api\/library\/usage\/{mediaId}",
             "description": "Get the records for the library item usage report",
@@ -3882,11 +3882,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "dc8619229fd10faaf37d8dd4251f8bb9",
+            "id": "e667221e70514ae1363ba63646feb75c",
             "name": "Get Library Item Usage Report for Layouts",
             "url": "https\/api\/library\/usage\/layouts\/{mediaId}",
             "description": "Get the records for the library item usage report for Layouts",
@@ -3905,11 +3905,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "e47b09f568c4c43590de8fadefef59a0",
+            "id": "93728efeb36abdd260787eb63bc61361",
             "name": "About",
             "url": "https\/api\/about",
             "description": "Information about this API, such as Version code, etc",
@@ -3928,11 +3928,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "4e672ce2079003cbf776c1a01e658ea8",
+            "id": "903dfe0d38d32fe5154d5482ffa52f63",
             "name": "Edit a Widget",
             "url": "https\/api\/playlist\/widget\/{widgetId}",
             "description": "Edit a Widget, please refer to individual widget Add documentation for module specific parameters",
@@ -3959,11 +3959,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "59ac982d6b858bd16c920ddf5ae7939f",
+            "id": "c385e9ba93473e4d867d4d09be1791ba",
             "name": "Delete a Widget",
             "url": "https\/api\/playlist\/widget\/{widgetId}",
             "description": "Deleted a specified widget",
@@ -3990,11 +3990,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "e4e66ee6d33934e80c71ac1648e9664d",
+            "id": "5f52149a976efba062bbdf2973788671",
             "name": "Adds In\/Out transition",
             "url": "https\/api\/playlist\/widget\/transition\/{type}\/{widgetId}",
             "description": "Adds In\/Out transition to a specified widget",
@@ -4049,11 +4049,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "1523da63b583246210e10c2877b4a4a8",
+            "id": "4b005bf512512c3d475f10743e3a857d",
             "name": "Parameters for edting\/adding audio file to a specific widget",
             "url": "https\/api\/playlist\/widget\/{widgetId}\/audio",
             "description": "Parameters for edting\/adding audio file to a specific widget",
@@ -4101,11 +4101,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "62d2a5c6aca398c867b07a4a50ed33ee",
+            "id": "6e75450b3564db8712cffececd4abb5a",
             "name": "Delete assigned audio widget",
             "url": "https\/api\/playlist\/widget\/{widgetId}\/audio",
             "description": "Delete assigned audio widget from specified widget ID",
@@ -4132,11 +4132,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "27e359e46c45f967f4124318e78f7b94",
+            "id": "d93406f6098e546701627ce3337e7b69",
             "name": "Notification Search",
             "url": "https\/api\/notification",
             "description": "Search this users Notifications",
@@ -4170,11 +4170,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "35fd171ab302f775042ce4b6e24fea22",
+            "id": "03666495b771b65558638b5b0ee4b7ea",
             "name": "Notification Add",
             "url": "https\/api\/notification",
             "description": "Add a Notification",
@@ -4243,11 +4243,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "a5a9a45559ba93023a63922aace7f521",
+            "id": "e873fbd1c0d529342e1e4e962dde9a81",
             "name": "Notification Edit",
             "url": "https\/api\/notification\/{notificationId}",
             "description": "Edit a Notification",
@@ -4323,11 +4323,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "63219d733696209df91fe34e31d41387",
+            "id": "6a0c0d421a02d90d37261fa9b129af52",
             "name": "Delete Notification",
             "url": "https\/api\/notification\/{notificationId}",
             "description": "Delete the provided notification",
@@ -4354,11 +4354,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "f1bca661f74bd6b3e3fa7f55051dd24f",
+            "id": "d6ade7d463bdfb9b2ea224937fbbe377",
             "name": "Playlist Widget Search",
             "url": "https\/api\/playlist\/widget",
             "description": "Search widgets on a Playlist",
@@ -4392,11 +4392,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "415169d43c0beaa9f8054df075c59ed5",
+            "id": "079507486123287fd5b8a9c6f89271ba",
             "name": "Assign Library Items",
             "url": "https\/api\/playlist\/library\/assign\/{playlistId}",
             "description": "Assign Media from the Library to this Playlist",
@@ -4444,11 +4444,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "181fbb962b58e0d13c5e0916e131ae9f",
+            "id": "750b3b154bdc85618165857c81f110e8",
             "name": "Order Widgets",
             "url": "https\/api\/playlist\/order\/{playlistId}",
             "description": "Set the order of widgets in the Playlist",
@@ -4482,11 +4482,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "77c6b381a81b2e0d7281b6288922bf9b",
+            "id": "67df303b0b782e7c0d1eebb2d2b4892a",
             "name": "Edit Region",
             "url": "https\/api\/region\/{id}",
             "description": "Edit Region",
@@ -4576,11 +4576,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "a2481ca2e1ac6cab0c5b2728d1285495",
+            "id": "0f23ef5dd915e9c93e3ad9eb74cd32dc",
             "name": "Add Region",
             "url": "https\/api\/region\/{id}",
             "description": "Add a Region to a Layout",
@@ -4635,11 +4635,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "cdb1b1e666e591c8b95235a6306d1b14",
+            "id": "a03a7007ad67ef9538319f40752efb64",
             "name": "Region Delete",
             "url": "https\/api\/region\/{regionId}",
             "description": "Delete an existing region",
@@ -4666,11 +4666,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "3d8d08c1f3d8cedce71a876921d273b3",
+            "id": "ad6beaeef2fda68e71b491f9c6a737a8",
             "name": "Position Regions",
             "url": "https\/api\/region\/position\/all\/{layoutId}",
             "description": "Position all regions for a Layout",
@@ -4704,11 +4704,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "d6a0c0854e745c2415700d9cf2623184",
+            "id": "e64644652a882d00c1122ffbce8c0523",
             "name": "Resolution Search",
             "url": "https\/api\/resolution",
             "description": "Search Resolutions this user has access to",
@@ -4749,11 +4749,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "20c15fe1d2710d83a7360f4eb28e1074",
+            "id": "573e418c9b2513c0931f9061d2b78c0a",
             "name": "Add Resolution",
             "url": "https\/api\/resolution",
             "description": "Add new Resolution",
@@ -4794,11 +4794,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "f3fb5e6782acc9fa7d5d3d854be55bc3",
+            "id": "985612e43a32a27e8fac7eb7534acdcb",
             "name": "Edit Resolution",
             "url": "https\/api\/resolution\/{resolutionId}",
             "description": "Edit new Resolution",
@@ -4846,11 +4846,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "211359c7610c5c14549dca6b08e85f90",
+            "id": "fdc9c017583b769b96edab6fab9069c3",
             "name": "Delete Resolution",
             "url": "https\/api\/resolution\/{resolutionId}",
             "description": "Delete Resolution",
@@ -4877,11 +4877,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "cac3a69fb82b7960bd3c81cb8b331640",
+            "id": "825a00b72186093923e02b7bf88caf04",
             "name": "Generates the calendar that we draw events on",
             "url": "https\/api\/schedule\/data\/events",
             "description": "",
@@ -4922,11 +4922,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "d3af07e11ba603fc3881d8250f6c7160",
+            "id": "980e7b16cf3de0e4d334dcc6670de02a",
             "name": "Event List",
             "url": "https\/api\/schedule\/{displayGroupId}\/events",
             "description": "",
@@ -4960,11 +4960,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "0bde9e76ac655effb1cf406f8c1e49ed",
+            "id": "088de91cee38fc852b12c025b368dfd2",
             "name": "Add Schedule Event",
             "url": "https\/api\/schedule",
             "description": "Add a new scheduled event for a Campaign\/Layout to be shown on a Display Group\/Display.",
@@ -5082,11 +5082,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "b98bcf8dc028feed5192fc369a94bcf7",
+            "id": "0d8be6feaf31e8e8b3db77866bd28ffd",
             "name": "Edit Schedule Event",
             "url": "https\/api\/schedule\/{eventId}",
             "description": "Edit a scheduled event for a Campaign\/Layout to be shown on a Display Group\/Display.",
@@ -5211,11 +5211,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "3180dc0d8ddea34d743a61edfd252de6",
+            "id": "fe20825373a0fd4b0a5d756a6402e263",
             "name": "Delete Event",
             "url": "https\/api\/schedule\/{eventId}",
             "description": "Delete a Scheduled Event",
@@ -5242,11 +5242,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "9a8dedee2dd06524f288789e476246b8",
+            "id": "9b1f4dee036d603ed2600bad3e7e652f",
             "name": "",
             "url": "https\/api\/stats",
             "description": "",
@@ -5308,11 +5308,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "354fe36b48030f49ad3fd09f30c45ed4",
+            "id": "fa64939c227fb16f52ef6277ae253011",
             "name": "Template Search",
             "url": "https\/api\/template",
             "description": "Search templates this user has access to",
@@ -5331,11 +5331,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "6d6fef6d6edd4afff7df2e285ef9959e",
+            "id": "fb0cb2564e1a6a021cc019f5dd6f5114",
             "name": "Add a template from a Layout",
             "url": "https\/api\/template\/{layoutId}",
             "description": "Use the provided layout as a base for a new template",
@@ -5390,11 +5390,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "90b7626fa00c561235099a8db9958bc5",
+            "id": "452c19757a8bde03da6991c2fd284c1e",
             "name": "Get Me",
             "url": "https\/api\/user\/me",
             "description": "Get my details",
@@ -5413,11 +5413,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "2d15c928d6832f10a6d4c5e8ab2cfc9f",
+            "id": "6ba5a686a8792cc9483f8be97e03f398",
             "name": "User Search",
             "url": "https\/api\/user",
             "description": "Search users",
@@ -5465,11 +5465,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "743dd58c434fafea1c298c8b52e70f2e",
+            "id": "fb217de1207ec5f0e68c9fb86ad14641",
             "name": "Add User",
             "url": "https\/api\/user",
             "description": "Add a new User",
@@ -5594,11 +5594,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "1659041c1219f337b6777b8d0860d1a6",
+            "id": "f271ce7741af7bdcb6e9665097850272",
             "name": "Permission Data",
             "url": "https\/api\/user\/permissions\/{entity}\/{objectId}",
             "description": "Permission data for the Entity and Object Provided.",
@@ -5632,11 +5632,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "4fe171c4fb0008530836bc29ba806fe0",
+            "id": "aac698b19236985d5bddecc2fb57a5af",
             "name": "Permission Set",
             "url": "https\/api\/user\/permissions\/{entity}\/{objectId}",
             "description": "Set Permissions to users\/groups for the provided entity.",
@@ -5684,11 +5684,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "8f74c14d2f93561e86ff0aba3b64f469",
+            "id": "2dedf2f028430c2f84e9cd7c8a5e8cc6",
             "name": "Retrieve User Preferences",
             "url": "https\/api\/user\/pref",
             "description": "User preferences for non-state information, such as Layout designer zoom levels",
@@ -5715,11 +5715,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "bc4116ba10c05057cc18daa4a6e15136",
+            "id": "28931102410c2c1849fa56a0249745d1",
             "name": "Save User Preferences",
             "url": "https\/api\/user\/pref",
             "description": "Save User preferences for non-state information, such as Layout designer zoom levels",
@@ -5746,11 +5746,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "b5453eac99f2a010b3b00bd811d7e012",
+            "id": "4d1d1ff3a2254415261ea0b4d5dc9c70",
             "name": "UserGroup Search",
             "url": "https\/api\/usergroup",
             "description": "Search User Groups",
@@ -5784,11 +5784,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "9204a5459f1647c6b37514d75667daef",
+            "id": "8d47cff9963d314cd2479c9afea75143",
             "name": "Copy User Group",
             "url": "https\/api\/group\/{userGroupId}\/copy",
             "description": "Copy an user group, optionally copying the group members",
@@ -5829,11 +5829,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "9c806c4ec72fad12e2375a1cb8ebc275",
+            "id": "ceee37063d9199ea9cca0deab90d910f",
             "name": "Parameters for editing existing audio widget on a layout",
             "url": "https\/api\/playlist\/widget\/audio\/{playlistId}",
             "description": "Parameters for editing existing audio widget on a layout, for adding new audio, please refer to POST \/library documentation",
@@ -5888,11 +5888,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "efd443f4917f50a4749a3af4c50f584c",
+            "id": "1c343df517b78fa90fdd690751b2df2c",
             "name": "Add a Chart Widget",
             "url": "https\/api\/playlist\/widget\/chart\/{playlistId}",
             "description": "Add a new Chart Widget to the specified playlist",
@@ -6066,11 +6066,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "36e1ca2400564d46adb44c5442c56f9d",
+            "id": "5a12141879328e8a9777f448f2a7433a",
             "name": "Add a Clock Widget",
             "url": "https\/api\/playlist\/widget\/clock\/{playlistId}",
             "description": "Add a new Clock Widget to the specified playlist",
@@ -6160,11 +6160,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "3ad83cfbab3596a07b17024b35d2ed76",
+            "id": "2f3afa4f748de502b8147a816da73410",
             "name": "Add a Currencies Widget",
             "url": "https\/api\/playlist\/widget\/currencies\/{playlistId}",
             "description": "Add a new Currencies Widget to the specified playlist",
@@ -6345,11 +6345,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "788e79c352a2644927998770161097a9",
+            "id": "95dfdd5ea176a95cb54cb71d74a43a44",
             "name": "Add a dataSetView Widget",
             "url": "https\/api\/playlist\/widget\/dataSetView\/{playlistId}",
             "description": "Add a new dataSetView Widget to the specified playlist",
@@ -6495,11 +6495,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "bf3d3756c46103d54d3250de9783b40a",
+            "id": "eff56e00d0e42661bed888f77af6a455",
             "name": "Add a Embedded Widget",
             "url": "https\/api\/playlist\/widget\/embedded\/{playlistId}",
             "description": "Add a new Embedded Widget to the specified playlist",
@@ -6582,11 +6582,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "b64bd1bb4a3358a726f134605e351423",
+            "id": "0c7c34aeade44e5fe705e9e9669bf88c",
             "name": "Add a Finance Widget",
             "url": "https\/api\/playlist\/widget\/finance\/{playlistId}",
             "description": "Add a new Finance Widget to the specified playlist",
@@ -6739,11 +6739,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "387d7b861364bbcfae67332849bb9c0c",
+            "id": "8805308bccea933e36e7d476a1e3259b",
             "name": "Add a Weather Widget",
             "url": "https\/api\/playlist\/widget\/forecastIo\/{playlistId}",
             "description": "Add a new Weather Widget to the specified playlist",
@@ -6889,11 +6889,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "01fd36f2ff40ddb0a88493ad00366a90",
+            "id": "a46bdf3c9fb7a0780e24ca3905ce2a83",
             "name": "Add a Google Traffic Widget",
             "url": "https\/api\/playlist\/widget\/googleTraffic\/{playlistId}",
             "description": "Add a new Google traffic Widget to the specified playlist",
@@ -6969,11 +6969,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "55c0204c92e2396b1186fbbbd52d4e01",
+            "id": "df461f57722f3761356fa362ae7d8439",
             "name": "Add a HLS Widget",
             "url": "https\/api\/playlist\/widget\/hls\/{playlistId}",
             "description": "Add a new HLS Widget to the specified playlist",
@@ -7042,11 +7042,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "a3d50fb4cc6134e1a31db610ad0e830e",
+            "id": "579eecad85db210b141656318a0460d5",
             "name": "Parameters for editing existing image on a layout",
             "url": "https\/api\/playlist\/widget\/image\/{playlistId}",
             "description": "Parameters for editing existing image on a layout, for adding new images, please refer to POST \/library documentation",
@@ -7108,11 +7108,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "16b8048a33f1ff3f0a1276b39641eb3b",
+            "id": "83b2ad77f5d5d1e58e278b16667ca4f9",
             "name": "Add a Local Video Widget",
             "url": "https\/api\/playlist\/widget\/localVideo\/{playlistId}",
             "description": "Add a new Local Video Widget to the specified playlist",
@@ -7174,11 +7174,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "c4cb181c8a8a0a1886186c08a4025309",
+            "id": "be200112d852a58c77ae9118279ba857",
             "name": "Add a Notification Widget",
             "url": "https\/api\/playlist\/widget\/notificationview\/{playlistId}",
             "description": "Add a new Notification Widget to the specified playlist",
@@ -7268,11 +7268,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "287a793fa11ae99ce230c2d9650e0ea2",
+            "id": "e258a16f20c72b3d542e0e4d617cc4fc",
             "name": "Parameters for editing existing pdf on a layout",
             "url": "https\/api\/playlist\/widget\/pdf\/{playlistId}",
             "description": "Parameters for editing existing pdf on a layout, for adding new files, please refer to POST \/library documentation",
@@ -7313,11 +7313,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "dc488ac8d6d8f8886b39ae04075ad992",
+            "id": "28fbd2f9990e030dbcf5f080a576e49c",
             "name": "Add a Shell Command Widget",
             "url": "https\/api\/playlist\/widget\/shellCommand\/{playlistId}",
             "description": "Add a new Shell Command Widget to the specified playlist",
@@ -7407,11 +7407,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "f9a3a119cb7d030babbf33affebb9e1a",
+            "id": "81595c1e145f4873f17790071adcbd66",
             "name": "Add a Stocks Widget",
             "url": "https\/api\/playlist\/widget\/stocks\/{playlistId}",
             "description": "Add a new Stocks Widget to the specified playlist",
@@ -7564,11 +7564,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "20a04ac521bbd4849e8bd3a5f7cf5359",
+            "id": "d01e337f05452866c4fde87d01329d76",
             "name": "Add a Text Widget",
             "url": "https\/api\/playlist\/widget\/text\/{playlistId}",
             "description": "Add a new Text Widget to the specified playlist",
@@ -7658,11 +7658,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "c46e81300415c70e51c200db3861394e",
+            "id": "497b9b4159ba431d24fea6c30a5fdc21",
             "name": "Add a ticker Widget",
             "url": "https\/api\/playlist\/widget\/ticker\/{playlistId}",
             "description": "Add a new ticker Widget to the specified playlist",
@@ -7927,11 +7927,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "fe97188bd6b829e6be6970c70380882b",
+            "id": "7d7e50cd59a5fa650d3bab9c25ec61c1",
             "name": "Add a Twitter Widget",
             "url": "https\/api\/playlist\/widget\/twitter\/{playlistId}",
             "description": "Add a new Twitter Widget to the specified playlist",
@@ -8154,11 +8154,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "a92f7162372e9f119759e9ab85d9f6d5",
+            "id": "abf454211e02475c10fb689ed8428a6e",
             "name": "Add a Twitter Metro Widget",
             "url": "https\/api\/playlist\/widget\/twittermetro\/{playlistId}",
             "description": "Add a new Twitter Metro Widget to the specified playlist",
@@ -8339,11 +8339,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "5c23879d67e4bb6f5a241be0ab127843",
+            "id": "ed3cd348b96067e48402f8502c65ad3f",
             "name": "Parameters for editing existing video on a layout",
             "url": "https\/api\/playlist\/widget\/video\/{playlistId}",
             "description": "Parameters for editing existing video on a layout, for adding new videos, please refer to POST \/library documentation",
@@ -8405,11 +8405,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "ccc8f11e44d945bb585e5ae1f1c5e57b",
+            "id": "de947a7b2e994d43fb36a13e0813bab5",
             "name": "Add a Video In Widget",
             "url": "https\/api\/playlist\/widget\/videoin\/{playlistId}",
             "description": "Add a new Video In Widget to the specified playlist",
@@ -8457,11 +8457,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         },
         {
-            "id": "45b4c4322cc920cf8106289c08d50fb1",
+            "id": "39b09b1b145a93c8de2737f911bcfb08",
             "name": "Add a Web page Widget",
             "url": "https\/api\/playlist\/widget\/webpage\/{playlistId}",
             "description": "Add a new Web page Widget to the specified playlist",
@@ -8565,7 +8565,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "3df093d1313a2f44e3dd8b43f7622cb8",
+            "collectionId": "1e2ddaaec0b399207441ca0711959c0c",
             "rawModeData": ""
         }
     ]
